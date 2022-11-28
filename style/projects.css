@@ -1,0 +1,17 @@
+main{
+    height: auto;
+}
+
+.pictures{
+
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    
+}
+.column-small{
+    width: 460px;
+height: 340px;
+margin-top: 15px;
+}

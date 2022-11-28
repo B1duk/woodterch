@@ -1,0 +1,49 @@
+.partners-title{
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+}
+
+.partners-cards{
+    padding-left: 500px;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.partner-card{
+    margin-top: 31px;
+}
+
+.partner{
+    display: flex;
+    
+}
+
+.partner-card-img{
+margin-bottom:140px;
+}
+
+.partner-card-text{
+    margin-left: 33px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.partner-card-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F88500;
+     
+}
+
+.patner-card-info{
+width: 595px;
+height: 212px;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+}

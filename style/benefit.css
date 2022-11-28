@@ -1,0 +1,47 @@
+.benefit-title{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.benefit-logo{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 38px;
+}
+
+.benefit-title-text{
+    margin-top: 50px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+width: 590px;
+margin-left: 630px;
+}
+
+.benefit-content{
+    margin-top: 80px;
+}
+
+.benefit-content-img{
+    margin-left: 450px;
+}
+
+.content-text{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+width: 746px;
+margin-left: 600px;
+margin-bottom:40px;
+}
+
+.benefit-content-img-small{
+    margin-left: 600px;
+    margin-top:50px;
+}
